@@ -5,6 +5,6 @@ A standalone library of the Fraunhofer FDK AAC code from Android. Only add andro
 
 
 How to build for Android
-=======================
+------------------------
 
 `./build_android.sh`
