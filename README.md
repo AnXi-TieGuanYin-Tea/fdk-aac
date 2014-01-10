@@ -7,5 +7,5 @@ A standalone library of the Fraunhofer FDK AAC code from Android. Only add andro
 How to build for Android
 ------------------------
 
-`./autogen.sh`
-`./build_android.sh`
+    ./autogen.sh
+    ./build_android.sh
