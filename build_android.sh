@@ -20,7 +20,7 @@ fi
 SOURCE=`pwd`
 PREFIX=$SOURCE/build/android
 
-SYSROOT=$ANDROID_NDK/platforms/android-18/arch-arm
+SYSROOT=$ANDROID_NDK/platforms/android-19/arch-arm
 CROSS_PREFIX=$ANDROID_NDK/toolchains/arm-linux-androideabi-4.8/prebuilt/$HOST_SYSTEM/bin/arm-linux-androideabi-
 
 ./configure  --prefix=$PREFIX \
